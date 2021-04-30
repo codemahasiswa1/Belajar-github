@@ -4,3 +4,5 @@ Rencana Belajar
 -Belajar Web
 -Belajar HTML
 -Belajar C
+-Belajar C++
+-Belajar java
