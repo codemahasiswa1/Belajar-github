@@ -3,3 +3,4 @@ Rencana Belajar
 -Belajar data citra
 -Belajar Web
 -Belajar HTML
+-Belajar C
