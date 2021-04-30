@@ -1,8 +1,8 @@
 Rencana Belajar
 -Belajar Python
--Belajar data citra
 -Belajar Web
 -Belajar HTML
 -Belajar C
 -Belajar C++
 -Belajar java
+-Belajar android
