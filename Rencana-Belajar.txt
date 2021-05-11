@@ -6,3 +6,4 @@ Rencana Belajar
 -Belajar C++
 -Belajar java
 -Belajar android
+-Belajar linux
